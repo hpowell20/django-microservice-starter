@@ -19,7 +19,7 @@ __pycache__/
 *.log
 local_settings.py
 db.sqlite3
-rest_test_db
+service_db
 
 # Unit test / coverage reports
 .coverage

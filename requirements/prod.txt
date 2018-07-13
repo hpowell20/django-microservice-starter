@@ -1,0 +1,2 @@
+-r defaults.txt
+gunicorn==19.8.1
